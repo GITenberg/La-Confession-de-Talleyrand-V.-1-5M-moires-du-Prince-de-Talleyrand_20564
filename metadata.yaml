@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '9391'
     url: http://www.gutenberg.org/2009/agents/9391
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20564#La-Confession-de-Talleyrand-V.-1-5M-moires-du-Prince-de-Talleyrand
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2007-02-11'
 gutenberg_type: Text
